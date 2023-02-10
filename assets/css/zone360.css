@@ -1,0 +1,50 @@
+#container {
+    overflow: visible !important;
+  }
+  
+  .no-border {
+    outline: 0;
+    text-decoration: none;
+  }
+  
+  .fancybox-can-swipe .fancybox-content {
+    max-width: 90%;
+  }
+
+  .fancybox-content p{
+    text-align: justify !important;
+  }
+
+  
+ 
+  
+  
+  .button-menu a {
+    color: #000;
+  }
+  
+  .imglist {
+    display: none;
+  }
+  
+  @media only screen and (max-width: 1300px) {
+    .fancybox-can-swipe .fancybox-content {
+      max-width: 100%;
+    }
+  
+    .fancybox-slide {
+      padding: 44px 0px !important;
+    }
+  }
+  
+  @media only screen and (max-height: 750px) {
+    .fancybox-can-swipe .fancybox-content {
+      max-width: 100%;
+    }
+  
+    .fancybox-slide {
+      padding: 44px 0px !important;
+    }
+  }
+  
+  

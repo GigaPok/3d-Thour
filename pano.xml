@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node9" apprev="18116" appversion="6.1.15">
+  <panorama hideabout="1" id="node1">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="99.8945" fov="70" projection="4" tilt="-6.2795"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="270" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata altitude="450.00" latitude="41.707905" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node1" datetime="04-Feb-23 12:08" longitude="44.798282" title="Panoramic street View" description="" author="Panoramic street View" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-262.17" url="{node8}" tilt="-2.5" title="urban" description="Urban Park Hotels" skinid="marker_image" id="Point01" target=""/>
+      <hotspot pan="-185.36" url="{node8}" tilt="-2.58" title="metro" description="Metro Marjanishvili" skinid="marker_image_metro" id="Point01" target=""/>
+      <hotspot pan="-261.72" url="{node4}" tilt="-52.06" title="ქუჩის ხედი" description="Street View" skinid="ht_node" id="Point02" target=""/>
+      <hotspot pan="-259.05" url="{node5}" tilt="-23.81" title="Urban Park Hotels " description="Urban Park Hotels " skinid="ht_node" id="Point01" target="119.5/0.0/70.0"/>
+      <hotspot pan="-168.72" url="{node8}" tilt="-1.68" title="mcdonalds" description="Mcdonalds" skinid="marker_image_metro" id="Point01" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="97.0004" fov="70" projection="4" tilt="-17.8078"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="270" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata altitude="484.92" latitude="41.707905" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node9" datetime="04-Feb-23 12:07" longitude="44.798281" title="Panoramic street View" description="" author="Panoramic street View" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-262.35" url="{node8}" tilt="-13.62" title="urban" description="Urban Park Hotels" skinid="marker_image" id="Point01" target=""/>
+      <hotspot pan="-261.58" url="{node5}" tilt="-38.43" title="Urban Park Hotels " description="Urban Park Hotels " skinid="ht_node" id="Point01" target="119.5/0.0/70.0"/>
+      <hotspot pan="-266.19" url="{node4}" tilt="-69.26" title="ქუჩის ხედი" description="Street View" skinid="ht_node" id="Point02" target=""/>
+      <hotspot pan="-187.3" url="{node8}" tilt="-10.81" title="metro" description="Metro Marjanishvili" skinid="marker_image_metro" id="Point01" target=""/>
+      <hotspot pan="-170.56" url="{node8}" tilt="-12.19" title="mcdonalds" description="Mcdonalds" skinid="marker_image_metro" id="Point01" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="41.06" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="270" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node4" datetime="04-Feb-23 12:35" longitude="" title="Park Entrance" description="" author="Park Entrance" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-317.81" url="{node5}" tilt="-4.5" title="Urban Park Hotels " description="Urban Park Hotels " skinid="ht_node" id="Point01" target="119.5/0.0/70.0"/>
+      <hotspot pan="-57.23" url="{node9}" tilt="27.8" title="საჰაერო  ხედი" description="Aerial   View" skinid="ht_node_air" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="119.54" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="20" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="90" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node5" datetime="04-Feb-23 12:39" longitude="" title="Parking Zone" description="" author="Parking Zone" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-239.05" url="{node6}" tilt="-4.33" title="Urban Park Hotels " description="Urban Park Hotels " skinid="ht_node" id="Point01" target="10.9/0.0/70.0"/>
+      <hotspot pan="-59.34" url="{node4}" tilt="-7.84" title="გასასვლელი" description="Exit" skinid="ht_node" id="Point02" target="41.1/0.0/70.0"/>
+      <hotspot pan="-51.88" url="{node9}" tilt="23.08" title="საჰაერო  ხედი" description="Aerial   View" skinid="ht_node_air" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="10.94" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="270" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node6" datetime="04-Feb-23 12:44" longitude="" title="Park Territory" description="" author="Park Territory" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-347.65" url="{node7}" tilt="-3.22" title="Urban Park Hotels " description="Urban Park Hotels " skinid="ht_node" id="Point01" target=""/>
+      <hotspot pan="-168.65" url="{node5}" tilt="-7.83" title="გასასვლელი" description="Exit" skinid="ht_node" id="Point02" target="-59.5/0.0/70.0"/>
+      <hotspot pan="-162.02" url="{node9}" tilt="38.69" title="საჰაერო  ხედი" description="Aerial   View" skinid="ht_node_air" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="17.0731" fov="70" projection="4" tilt="8.9013"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="270" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node7" datetime="04-Feb-23 12:56" longitude="" title="Hotel Exterior" description="" author="Hotel Exterior" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="353.51" url="{node8}" tilt="-6.63" title="Urban Park Hotels " description="Urban Park Hotels " skinid="ht_node" id="Point01" target=""/>
+      <hotspot pan="-125.27" url="{node6}" tilt="-5.13" title="გასასვლელი" description="Exit" skinid="ht_node" id="Point02" target="-170.1/0.0/70.0"/>
+      <hotspot pan="-119.24" url="{node9}" tilt="28.18" title="საჰაერო  ხედი" description="Aerial   View" skinid="ht_node_air" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0.728521" fov="70" projection="4" tilt="9.74012"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="270" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node8" datetime="04-Feb-23 12:58" longitude="" title="Hotel Entrance" description="" author="Hotel Entrance" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-259.38" url="{node7}" tilt="-7.79" title="გასასვლელი" description="Exit" skinid="ht_node" id="Point01" target="-125.9/8.9/70.0"/>
+      <hotspot pan="-1.78" url="{node2}" tilt="-1.56" title="Urban Park Hotels" description="Urban Park Hotels" skinid="ht_node" id="Point02" target="-80.2/0.7/70.0"/>
+      <hotspot pan="-261.3" url="{node9}" tilt="37.56" title="საჰაერო  ხედი" description="Aerial   View" skinid="ht_node_air" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-155.73" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="270" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node2" datetime="04-Feb-23 13:20" longitude="" title="Lobby" description="" author="Lobby" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-307.45" url="{node8}" tilt="-12.41" title="გასვლა" description="Exit" skinid="ht_node" id="Point01" target="101.6/0.9/70.0"/>
+      <hotspot pan="-138.36" url="{node3}" tilt="-9.5" title="ლობი" description="Lobby" skinid="ht_node" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input leveltilesize="510" levelbias="0.400" levelbiashidpi="0.400" overlap="1" leveltileurl="pano/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingpitch="0" height="3000" levelingroll="0">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="26.85" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="90" fovstereographic="270" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" source="" tags="For Stitch" customnodeid="" copyright="" nodeid="node3" datetime="04-Feb-23 13:30" longitude="" title="Lobby Bar" description="" author="Lobby Bar" info="" heading="0" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" enabled="1" borderalpha="1" textcolor="0x000000" background="1" textalpha="1" width="180" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-309.63" url="{node2}" tilt="-10.81" title="მიმღები" description="Reception" skinid="ht_node" id="Point01" target="-65.7/0.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" type="crossdissolve" enabled="0" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" hideabout="1" contextvr="0" invertwheel="1" speedwheel="1" simulatemass="1" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" source="" tags="" customnodeid="" copyright="" nodeid="master" datetime="" longitude="" title="" description="" author="" info="" heading="0" comment=""/>
+  </masternode>
+</tour>
